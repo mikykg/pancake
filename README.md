@@ -11,7 +11,7 @@
 
 ## Exit Test
 
-1. Checkout the Repository
+1. Checkout the repository
 2. Create a branch ```<name>/pancake```. Ex : ```michael/pancake```
 3. Modify the code to expose a REST API ```GET /pancakes``` with response "HELLO PANCAKES"
 4. Update the readme.md sections below.
@@ -21,7 +21,7 @@
 
 ### How to Build
 
-### How to run
+### How to Run the application
 
 ### How to access pancake API
 
